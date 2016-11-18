@@ -1,0 +1,98 @@
+[{
+            "by": "CATEGORY",
+            "actions": [{
+                    "name": "All",
+                    "url": "#"
+                }, {
+                    "name": "Action",
+                    "url": "#",
+                    "selected": true
+                }, {
+                    "name": "One More Action",
+                    "url": "#"
+                }, {
+                    "name": "Another Action",
+                    "url": "#"
+                }
+
+            ]
+        }, {
+            "by": "BRAND",
+            "actions": [{
+                    "name": "All",
+                    "url": "#",
+                    "selected": true
+                }, {
+                    "name": "Action",
+                    "url": "#"
+                }, {
+                    "name": "One More Action",
+                    "url": "#"
+                }, {
+                    "name": "Another Action",
+                    "url": "#"
+                }
+
+            ]
+        },
+
+        {
+            "by": "YEAR",
+            "actions": [{
+                    "name": "All",
+                    "url": "#",
+                    "selected": true
+                }, {
+                    "name": "Action",
+                    "url": "#"
+                }, {
+                    "name": "One More Action",
+                    "url": "#"
+                }, {
+                    "name": "Another Action",
+                    "url": "#"
+                }
+
+            ]
+        },
+
+        {
+            "by": "RISK",
+            "actions": [{
+                    "name": "All",
+                    "url": "#",
+                    "selected": true
+                }, {
+                    "name": "Action",
+                    "url": "#"
+                }, {
+                    "name": "One More Action",
+                    "url": "#"
+                }, {
+                    "name": "Another Action",
+                    "url": "#"
+                }
+
+            ]
+        }, 
+
+        {
+            "by": "BANDWIDTH",
+            "actions": [{
+                    "name": "All",
+                    "url": "#",
+                    "selected": true
+                }, {
+                    "name": "Action",
+                    "url": "#"
+                }, {
+                    "name": "One More Action",
+                    "url": "#"
+                }, {
+                    "name": "Another Action",
+                    "url": "#"
+                }
+
+            ]
+        }
+ ]

@@ -1,0 +1,19 @@
+{
+            "by": "BANDWIDTH",
+            "actions": [{
+                    "name": "All",
+                    "url": "#",
+                    "selected": true
+                }, {
+                    "name": "Action",
+                    "url": "#"
+                }, {
+                    "name": "One More Action",
+                    "url": "#"
+                }, {
+                    "name": "Another Action",
+                    "url": "#"
+                }
+
+            ]
+        }

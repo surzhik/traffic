@@ -1,0 +1,31 @@
+{
+        "name": "Wearables Category",
+        "cols": ["Device", "Action", "Risk", "Threats", "Bandwidth"],
+        "rows": [{
+            "device": "Samsung TV",
+            "action": 0,
+            "risk": 3,
+            "threads": 12,
+            "bandwidth": 55
+        }, {
+            "device": "Sony TV",
+            "action": 1,
+            "risk": 3,
+            "threads": 12,
+            "bandwidth": 55
+        }, {
+            "device": "LG TV",
+            "action": 2,
+            "risk": 3,
+            "threads": 12,
+            "bandwidth": 55
+        }, {
+            "device": "Vizio TV",
+            "action": 0,
+            "risk": 3,
+            "threads": 12,
+            "bandwidth": 55
+        }],
+        "rows_total": 32,
+        "view_all_url": "https://www.google.com.ua"
+    }

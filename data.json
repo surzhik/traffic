@@ -1,0 +1,57 @@
+{
+    "sidebar": {
+        
+    },
+    "header": {
+        
+    },
+    "bar": {
+        "total": 3,
+        "threads": 12,
+        "risk": 5,
+        "model": "UN50J6200AFXZA",
+        "year": 2008
+    },
+    "bandwidth": {
+        "weekly": 16.2,
+        "average": 23.5,
+        "income": 12.4,
+        "income_diff": 3.2,
+        "outcome": 3.8,
+        "outcome_diff": -2,
+        "comsumption": 9.6,
+        "comsumption_diff": 1.4,
+        "dates": ["2016-01-01", "2016-01-02", "2016-01-03", "2016-01-04", "2016-01-05", "2016-01-06"],
+        "values": [30, 200, 100, 400, 150, 250],
+        "traffic": [
+            {
+                "latLng": [41.878, -87.629],
+                "mb": 2714856,
+                "type": 0,
+                "name": "Point 1"
+            },
+            {
+               "latLng": [40.714, -74.005],
+                "mb": 8405837,
+                "type": 1,
+                "name": "Point 2"
+            },
+            {
+                "latLng": [34.052, -118.243],
+                "mb": 3857799,
+                "type": 2,
+                "name": "Point 3"
+            },
+            {
+                "latLng": [49.25, -123.1],
+                "mb": 603502,
+                "type": 0,
+                "name": "Point 4"
+            }
+
+        ]
+    }
+
+
+
+}

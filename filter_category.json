@@ -1,0 +1,19 @@
+{
+            "by": "CATEGORY",
+            "actions": [{
+                    "name": "All",
+                    "url": "#"
+                }, {
+                    "name": "Action",
+                    "url": "#",
+                    "selected": true
+                }, {
+                    "name": "One More Action",
+                    "url": "#"
+                }, {
+                    "name": "Another Action",
+                    "url": "#"
+                }
+
+            ]
+        }
